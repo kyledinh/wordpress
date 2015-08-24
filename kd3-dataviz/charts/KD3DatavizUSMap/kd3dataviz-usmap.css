@@ -1,0 +1,13 @@
+.chartLabel {
+    font: 20px sans-serif;
+    fill: #666;
+}
+.chartPercentLabel {
+    font: 42px sans-serif;
+    font-weight: 900;
+    fill: #999;
+}
+.arcLabel {
+    font: 10px sans-serif;
+    fill: #fff;
+}

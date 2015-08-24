@@ -1,0 +1,211 @@
+{ "fills" : {
+  "South": "#ccc",
+  "West": "#ddd",
+  "East": "#eee",
+  "North": "#d4d4d4",
+  "defaultFill": "#cee3f6"
+}, 
+
+"states" : {
+ "AZ": {
+      "fillKey": "South",
+      "valPercent": 34
+  },
+  "CO": {
+      "fillKey": "North",
+      "valPercent": 54
+  },
+  "DE": {
+      "fillKey": "West",
+      "valPercent": 24
+  },
+  "FL": {
+      "fillKey": "UNDECIDED",
+      "valPercent": 92
+  },
+  "GA": {
+      "fillKey": "South",
+      "valPercent": 35
+  },
+  "HI": {
+      "fillKey": "West",
+      "valPercent": 35
+  },
+  "ID": {
+      "fillKey": "South",
+      "valPercent": 57
+  },
+  "IL": {
+      "fillKey": "West",
+      "valPercent": 34
+  },
+  "IN": {
+      "fillKey": "South",
+      "valPercent": 11
+  },
+  "IA": {
+      "fillKey": "North",
+      "valPercent": 60
+  },
+  "KS": {
+      "fillKey": "South",
+      "valPercent": 52
+  },
+  "KY": {
+      "fillKey": "South",
+      "valPercent": 39
+  },
+  "LA": {
+      "fillKey": "South",
+      "valPercent": 32
+  },
+  "MD": {
+      "fillKey": "West",
+      "valPercent": 32
+  },
+  "ME": {
+      "fillKey": "West",
+      "valPercent": 32
+  },
+  "MA": {
+      "fillKey": "West",
+      "valPercent": 24
+  },
+  "MN": {
+      "fillKey": "West",
+      "valPercent": 67
+  },
+  "MI": {
+      "fillKey": "West",
+      "valPercent": 38
+  },
+  "MS": {
+      "fillKey": "South",
+      "valPercent": 32
+  },
+  "MO": {
+      "fillKey": "South",
+      "valPercent": 13
+  },
+  "MT": {
+      "fillKey": "South",
+      "valPercent": 13
+  },
+  "NC": {
+      "fillKey": "Light South",
+      "valPercent": 32
+  },
+  "NE": {
+      "fillKey": "South",
+      "valPercent": 22
+  },
+  "NV": {
+      "fillKey": "East",
+      "valPercent": 56
+  },
+  "NH": {
+      "fillKey": "North",
+      "valPercent": 32
+  },
+  "NJ": {
+      "fillKey": "West",
+      "valPercent": 32
+  },
+  "NY": {
+      "fillKey": "West",
+      "valPercent": 32
+  },
+  "ND": {
+      "fillKey": "South",
+      "valPercent": 32
+  },
+  "NM": {
+      "fillKey": "West",
+      "valPercent": 32
+  },
+  "OH": {
+      "fillKey": "UNDECIDED",
+      "valPercent": 32
+  },
+  "OK": {
+      "fillKey": "South",
+      "valPercent": 45
+  },
+  "OR": {
+      "fillKey": "West",
+      "valPercent": 23
+  },
+  "PA": {
+      "fillKey": "West",
+      "valPercent": 67
+  },
+  "RI": {
+      "fillKey": "West",
+      "valPercent": 32
+  },
+  "SC": {
+      "fillKey": "South",
+      "valPercent": 32
+  },
+  "SD": {
+      "fillKey": "South",
+      "valPercent": 88
+  },
+  "TN": {
+      "fillKey": "South",
+      "valPercent": 45
+  },
+  "TX": {
+      "fillKey": "South",
+      "valPercent": 36
+  },
+  "UT": {
+      "fillKey": "South",
+      "valPercent": 43
+  },
+  "WI": {
+      "fillKey": "West",
+      "valPercent": 32
+  },
+  "VA": {
+      "fillKey": "North",
+      "valPercent": 32
+  },
+  "VT": {
+      "fillKey": "West",
+      "valPercent": 35
+  },
+  "WA": {
+      "fillKey": "West",
+      "valPercent": 51
+  },
+  "WV": {
+      "fillKey": "South",
+      "valPercent": 48
+  },
+  "WY": {
+      "fillKey": "South",
+      "valPercent": 35
+  },
+  "CA": {
+      "fillKey": "West",
+      "valPercent": 22
+  },
+  "CT": {
+      "fillKey": "West",
+      "valPercent": 39
+  },
+  "AK": {
+      "fillKey": "South",
+      "valPercent": 34
+  },
+  "AR": {
+      "fillKey": "South",
+      "valPercent": 32
+  },
+  "AL": {
+      "fillKey": "South",
+      "valPercent": 58
+  }
+}
+}
